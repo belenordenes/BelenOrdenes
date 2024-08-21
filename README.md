@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Belén 👋</h2>
 
 <p align="center">
-  <img src="/Users/belenordenes/Desktop/LABORATORIO DE PROGRAMACIÓN /belenordenes-repo/Imagenes/Memoji.jpg" alt="Texto alternativo" width="200"/>
+  <img src="Imagenes/Memoji.jpg" alt="Imagen de memoji" width="200"/>
 </p>
 
 Mi nombre es Belén Órdenes y soy estudiante de último año de Ingeniería Civil Industrial en la Facultad de Ciencias Físicas y Matemáticas (FCFM) de la Universidad de Chile. Me apasiona el área de Ciencia de los Datos e Inteligencia Artificial, por esta razón, estoy dando el Minor en CIencia de los Datos y he tomado más de 7 cursos del Magister de Data Science de la misma universidad.
